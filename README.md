@@ -17,7 +17,7 @@
 ## Sobre
 <p>
 Advogada, pós-graduada em Direto Digital. ⚖️
-Desenvolvedora e Ethical Hacker em formação.📝
+Desenvolvedora back-end Java em formação.📝
 
 Mergulhando de cabeça na tecnologia por não gostar nem um pouco de monotonia e ser apaixonada por inovação!
 Eu amo o Direito e tudo que esse mundo me proporcionou e ainda vai me proporcionar, mas nunca entendi a forma engessada como as coisas devem ser.
